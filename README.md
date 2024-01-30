@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Salam</h1>
 <h3 align="center">Web Designer & Developer | Html, Css, JavaScript, C++, React Js, Sass, Bootstrap 5, Tailwind Css, Git, Microsoft Excel, Adobe Photoshoptend developer from India</h3>
+<img src="[img_girl.jpg](https://media.licdn.com/dms/image/D4E16AQH6b2f92M6fVQ/profile-displaybackgroundimage-shrink_350_1400/0/1706291155728?e=1712188800&v=beta&t=7GcabsbfqxaAJqLiZKtU-lnvaIbk55QY73WnISjTxDE)" alt="Girl in a jacket" width="500" height="600">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
