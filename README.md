@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Nasiullha Chaudhari</h3>
+<h3 align="center">Hi, I'm Abdul Salam</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
