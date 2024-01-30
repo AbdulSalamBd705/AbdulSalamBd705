@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Salam</h1>
-<h3 align="center">A passionate fronWeb Designer & Developer | Html, Css, JavaScript, C++, React Js, Sass, Bootstrap 5, Tailwind Css, Git, Microsoft Excel, Adobe Photoshoptend developer from India</h3>
+<h3 align="center">Web Designer & Developer | Html, Css, JavaScript, C++, React Js, Sass, Bootstrap 5, Tailwind Css, Git, Microsoft Excel, Adobe Photoshoptend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
